@@ -19,7 +19,8 @@ app.get("/live", async (req, res) => {
           "x-rapidapi-host": "cricbuzz-cricket.p.rapidapi.com",
 
           // 👉 YAHAN APNI REAL KEY DAAL
-          "x-rapidapi-key": "a567d21a28mshed82c55f8ea7788p1ba38djsn193b5bbf29a9'
+          "x-rapidapi-key": "a567d21a28mshed82c55f8ea7788p1ba38djsn193b5bbf29a9"
+          
         }
       }
     );
