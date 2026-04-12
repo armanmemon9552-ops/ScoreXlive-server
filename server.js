@@ -5,7 +5,7 @@ const app = express();
 const PORT = process.env.PORT || 3000;
 
 // 🔑 API KEY (Render ENV में डालना)
-const CRICKET_API_KEY = a567d21a28mshed82c55f8ea7788p1ba38djsn193b5bbf29a9;
+const CRICKET_API_KEY = "a567d21a28mshed82c55f8ea7788p1ba38djsn193b5bbf29a9";
 
 // 🟢 HOME
 app.get("/", (req, res) => {
